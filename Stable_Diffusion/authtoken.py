@@ -1,1 +1,1 @@
-auth_token = "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"
+auth_token = "hugging_face_access_token"
